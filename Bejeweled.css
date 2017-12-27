@@ -1,0 +1,175 @@
+/*
+Phillip Ko
+p_ko1@u.pacific.edu
+Comp 127 Project4
+Nov 11, 2014
+Project4.css
+*/
+.square
+{
+	width: 50px;
+	height: 50px;
+	border: 2px solid black;
+	position: absolute;
+}
+
+#squarearea
+{
+	width: 700px;
+	height: 300px;
+	border: 2px solid black;
+	position: relative;
+}
+
+.element
+{
+	width: 50px;
+	height: 50px;
+	position: relative;
+}
+
+#top
+{
+	/*background: rgb(59,89, 152);*/ /*deep blue*/
+	background: blue;
+	/*height width float*/
+	height: 56.25px; 
+	width: 400px;
+	float: left;
+	text-align: center;
+	font-size: 2.3em;
+	font-family: Tahoma ;
+	color: white;
+	position: absolute;
+	z-index: 999;
+}
+
+#win
+{
+	/*background: rgb(59,89, 152);*/ /*deep blue*/
+	background: red;
+	/*height width float*/
+	height: 50px; 
+	width: 400px;
+	float: left;
+	text-align: center;
+	font-size: 2em;
+	font-family: Tahoma ;
+	color: white;
+	position: absolute;
+    left: 0px;
+    top: 250px;
+}
+
+#box
+{
+	width: 400px;
+	height: 550px;
+	border: 2px solid black;
+	position: relative;
+}
+
+
+
+#bottom
+{
+	background: blue;
+	/*height width float*/
+	height: 50px; 
+	width: 400px;
+	float: left;
+	
+	font-size: 2em;
+	font-family: Tahoma ;
+	color: white;
+}
+
+.overlay 
+{
+  position: relative;   
+  left: 0;
+  top: 0;
+  z-index: 999;
+}
+ 
+#temp
+{
+background: gray;
+	/*height width float*/
+	height: 56.25px; 
+	width: 400px;
+	float: left;
+}
+#middle00, #middle01 , #middle02, #middle03, #middle04, #middle05, #middle06, #middle07
+{
+	background: gray;
+	/*height width float*/
+	height: 56.25px; 
+	width: 50px;
+	float: left;
+}
+
+#middle10, #middle11 , #middle12, #middle13, #middle14, #middle15, #middle16, #middle17
+{
+	background: gray;
+	/*height width float*/
+	height: 56.25px; 
+	width: 50px;
+	float: left;
+}
+
+#middle20, #middle21 , #middle22, #middle23, #middle24, #middle25, #middle26, #middle27
+{
+	background: gray;
+	/*height width float*/
+	height: 56.25px; 
+	width: 50px;
+	float: left;
+}
+
+#middle30, #middle31 , #middle32, #middle33, #middle34, #middle35, #middle36, #middle37
+{
+	background: gray;
+	/*height width float*/
+	height: 56.25px; 
+	width: 50px;
+	float: left;
+}
+
+#middle40, #middle41 , #middle42, #middle43, #middle44, #middle45, #middle46, #middle47
+{
+	background: gray;
+	/*height width float*/
+	height: 56.25px; 
+	width: 50px;
+	float: left;
+}
+
+#middle50, #middle51 , #middle52, #middle53, #middle54, #middle55, #middle56, #middle57
+{
+	background: gray;
+	/*height width float*/
+	height: 56.25px; 
+	width: 50px;
+	float: left;
+}
+
+#middle60, #middle61 , #middle62, #middle63, #middle64, #middle65, #middle66, #middle67
+{
+	background: gray;
+	/*height width float*/
+	height: 56.25px; 
+	width: 50px;
+	float: left;
+}
+
+#middle70, #middle71 , #middle72, #middle73, #middle74, #middle75, #middle76, #middle77
+{
+	background: gray;
+	/*height width float*/
+	height: 56.25px; 
+	width: 50px;
+	float: left;
+}
+
+
